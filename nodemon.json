@@ -1,0 +1,7 @@
+{
+    "env": {
+        "CLIENT_ID": "13ac5b8a98e683dd66490598e5df5a51",
+        "CLIENT_SECRET": "36cd20ab6edefd21231e5dc6ff360d0a9a070770fe77ab5f45ebb5298c6a3671",
+        "URL": "https://api.jdoodle.com/v1/execute"
+    }
+}
